@@ -1,0 +1,19 @@
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 依赖 / 日志
+node_modules/
+*.log
+npm-debug.log*
+
+# 编辑器
+.vscode/
+.idea/
+
+# 本地临时与调试产物
+shot_*.png
+_diag.html
+_wrap*.html
+*.tmp
